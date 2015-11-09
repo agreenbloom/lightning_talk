@@ -1,1 +1,1 @@
-run slide: ruby -m http.8000
+To run slide deck: ruby -m http.8000
